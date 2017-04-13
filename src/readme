@@ -1,0 +1,3 @@
+test包下是普通的jdbc连接实现Guice与servlet的整合
+zyf包下是通过c3p0连接池连接数据库实现Guice与servlet的整合，并且数据的展示用到了分页技术
+
